@@ -23,6 +23,8 @@ This project implements a **Car Rental and Support System** that provides two ma
 ![Select](choice.png)
 ### Registration
 ![Register](informations.png)
-### Invoice
+### Invoice - that will also generate an invoice.txt
 ![Invoice](invoice.png)
+### Technical support
+![Technical](technical.png)
 
