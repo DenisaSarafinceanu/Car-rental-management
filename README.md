@@ -17,3 +17,12 @@ This project implements a **Car Rental and Support System** that provides two ma
 ## Results
 ### Start page
 ![Start_page](start_page.png)
+### Rent a car
+![Rent](car.png)
+### Select a car
+![Select](choice.png)
+### Registration
+![Register](informations.png)
+### Invoice
+![Invoice](invoice.png)
+
