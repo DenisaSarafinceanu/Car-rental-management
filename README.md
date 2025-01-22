@@ -28,3 +28,4 @@ This project implements a **Car Rental and Support System** that provides two ma
 ### Technical support
 ![Technical](technical.png)
 
+Thank you! ✨
