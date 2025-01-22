@@ -1,6 +1,6 @@
 /*****************************************************/
 /* Name of the project: Car rental management        */
-/* Authors: Sarafinceanu Denisa, Toasca Darius       */
+/* Author: Sarafinceanu Denisa                       */
 /* Version: 12-02-2022                               */
 /*****************************************************/
 
