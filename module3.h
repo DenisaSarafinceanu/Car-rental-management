@@ -1,6 +1,6 @@
 /*****************************************************/
 /* module2.h is the Header file for module module2   */
-/*Author: Toasca Darius                              */
+/*Author: Sarafinceanu Denisa                        */
 /*Version: 01-12-2023                                */
 /*****************************************************/
 #ifndef MODULE3_H_INCLUDED
