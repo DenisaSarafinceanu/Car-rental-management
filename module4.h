@@ -1,6 +1,6 @@
 /*****************************************************/
 /* module4.h is the Header file for module module4   */
-/*Author: Toasca Darius                              */
+/*Author: Sarafinceanu Denisa                        */
 /*Version: 03-01-2023                                */
 /*****************************************************/
 #ifndef MODULE4_H_INCLUDED
